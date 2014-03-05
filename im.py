@@ -1,4 +1,5 @@
 # Echo server program
+#instant messaging system 
 import socket
 import thread
 
